@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Meteor Heroku buildpack for Meteor 0.9.3+.
-
+# cloud foundry buildpack meteor 1.0
 # fail fast.
 set -e
 # debug verbosely.
